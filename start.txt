@@ -6,3 +6,4 @@ my first git learning!
 2222 2222222
 333333333
 111111 000000
+addd iafter stash
