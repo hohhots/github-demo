@@ -10,3 +10,4 @@ my first git learning!
 111111 000000
 addd iafter stash
 add tag for v-1.1
+add tag for v-1.2
